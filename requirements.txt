@@ -1,0 +1,9 @@
+streamlit
+numpy
+pandas
+matplotlib
+scikit-learn
+cvxpy
+yfinance
+requests
+xlsxwriter
